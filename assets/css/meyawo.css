@@ -11141,7 +11141,7 @@ p {
 
 .service-card {
   position: relative;
-  min-height: 260px;
+  min-height: 300px;
   border: 1px solid #dee2e6;
   overflow: hidden;
   border-radius: 3px;
